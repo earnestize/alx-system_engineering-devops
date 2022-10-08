@@ -1,1 +1,1 @@
-(1)execute mode
+multiple permissions
