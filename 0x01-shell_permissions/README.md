@@ -1,1 +1,1 @@
-new owner
+directory permission
