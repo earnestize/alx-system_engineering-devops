@@ -1,1 +1,1 @@
-(1)script to change ownership
+(1)execute mode
