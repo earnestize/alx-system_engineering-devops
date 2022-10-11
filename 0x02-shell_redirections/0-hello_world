@@ -1,2 +1,2 @@
 #!/bin/bash
-echo “Hello, World”
+System.out.println("Hello, World");
