@@ -1,1 +1,1 @@
-true knowledge
+print float
